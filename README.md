@@ -5,6 +5,7 @@ Landing page: https://sites.google.com/view/bordaquasar
 
 ![esp-](https://user-images.githubusercontent.com/99442421/189487849-fb77b45d-d54d-427e-b872-c8bfce0a84f9.jpeg)
 
+![bmt](https://user-images.githubusercontent.com/99442421/189494269-da95c5a1-7fa2-4724-8751-6fd10199872b.jpeg)
 
 
 <img width="814" alt="quasar web" src="https://user-images.githubusercontent.com/99442421/189488090-c8158dff-3f19-4949-9843-661b8158a6b8.png">
