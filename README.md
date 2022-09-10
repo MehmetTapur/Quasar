@@ -1,5 +1,5 @@
 # Quasar
-Borda Academy'22 Project - Electronic Shelf Label and its controller code
+Borda Academy'22 Project - Electronic Shelf Label and its controller(ESP32)
 
 Landing page: https://sites.google.com/view/bordaquasar
 
